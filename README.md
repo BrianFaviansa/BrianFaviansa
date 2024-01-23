@@ -32,7 +32,4 @@
 <a href="https://www.instagram.com/brian_fvns/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="right" font="small">"Keep coding, keep creating, and let your passion drive your lines of code to greatness."</p>
-
-
 -----
