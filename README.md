@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I'm Brian Faviansa</h1>
 <p align="left">I'm learning web development</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=0e75b6&style=flat" alt="BrianFaviansa" /> </p>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
