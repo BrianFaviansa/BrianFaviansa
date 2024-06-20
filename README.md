@@ -28,7 +28,7 @@
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/brianfaviansa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brianfaviansa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrianFaviansa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianfaviansa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
@@ -37,7 +37,7 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/brian-faviansa-putra-diasti-295165253/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="mailto:brianfpd31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+<a href="mailto:brianfpd31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/brian_fvns/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
