@@ -13,7 +13,8 @@
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/brianfaviansa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrianFaviansa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrianFaviansa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--     <img height="180em" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api?username=BrianFaviansa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&theme=algolia&hide=css"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=algolia&date_format=j%20M%5B%20Y%5D">
   </a>
