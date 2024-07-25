@@ -13,7 +13,7 @@
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/brianfaviansa">
-    <img height="180em" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&theme=algolia&hide=css,pug,scss,less,ejs,hack"/>
+    <img height="180em" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&langs_count=8&theme=algolia&hide=css,pug,scss,less,ejs,hack"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=algolia&date_format=j%20M%5B%20Y%5D">
   </a>
 </p>
