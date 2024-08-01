@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Brian Faviansa Putra Diasti</h1>
 <p>Web Development Enthusiast</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=0000FF&style=for-the-badge" alt="BrianFaviansa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=0000FF&style=for-the-badge" alt="BrianFaviansa" /> </p> 
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
@@ -13,7 +13,7 @@
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
   <a href="https://github.com/brianfaviansa">
-    <img height="200" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&langs_count=8&theme=algolia&hide=css,pug,scss,less,ejs,hack"/>
+    <img height="200" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&langs_count=8&theme=algolia&hide=pug,scss,less,ejs,hack"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=algolia&date_format=j%20M%5B%20Y%5D">
   </a>
 </p>
