@@ -6,7 +6,7 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,py,cs,html,css,laravel,nodejs,express,react,tailwind,bootstrap,jquery,mysql,mongodb,postgresql,postman,git&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,php,py,cs,html,css,laravel,nodejs,express,react,tailwind,bootstrap,jquery,mysql,mongodb,postgresql,prisma,postman,git&theme=dark&perline=9" />
   </a>
 </p>
 
