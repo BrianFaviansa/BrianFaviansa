@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Brian Faviansa Putra Diasti</h1>
-<p>Web Development Enthusiast</p>
+<p>Software Development Enthusiast</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=0000FF&style=for-the-badge" alt="BrianFaviansa" /> </p> 
 
