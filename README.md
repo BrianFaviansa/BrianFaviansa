@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrianFaviansa&label=Profile%20views&color=0000FF&style=for-the-badge" alt="BrianFaviansa" /> </p> 
 
 <h3 align="center">Github Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrianFaviansa&title=MultiLanguage,Commits,Followers,Repositories,Experience&theme=onedark&no-frame=false&no-bg=false"/>
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=BrianFaviansa&title=MultiLanguage,Commits,Followers,Repositories,Experience&theme=onedark&no-frame=false&no-bg=false"/> -->
+<!-- </p> -->
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
