@@ -20,7 +20,7 @@
   <a href="https://github.com/brianfaviansa">
 <!--     <img height="200" src="https://github-readme-stats-brianfaviansas-projects.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&langs_count=8&theme=algolia&hide=pug,scss,less,ejs,hack"/> -->
     <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrianFaviansa&layout=compact&langs_count=8&theme=algolia&hide=pug,scss,less,ejs,hack"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=algolia&date_format=j%20M%5B%20Y%5D">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=brianfaviansa&theme=algolia&date_format=j%20M%5B%20Y%5D"> -->
   </a>
 </p>
 
